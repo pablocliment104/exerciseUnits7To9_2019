@@ -1,6 +1,7 @@
 /*
  * Author: Pablo Miguel Climent Gonzálvez
  * Date: 1/11/2019
+ * Definitive version
  * 
  * This program asks the user for 10 positive integer number. At the end of
  * the process, it tells how many increments and decrements have taken place.
