@@ -11,7 +11,9 @@
 */
 
 #include <iostream>
+
 using namespace std;
+
 int main()
 {
     int number1=0,number2,increment=0,decrement=0;
@@ -39,7 +41,9 @@ int main()
                 increment++;
         }
     }
+
     cout << "There has been " << increment << " increments. ";
     cout << "And " << decrement << " decrements." << endl;
+
     return 0;
 }
