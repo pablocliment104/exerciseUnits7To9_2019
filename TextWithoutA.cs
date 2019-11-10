@@ -24,9 +24,9 @@ class TextWithoutA
             Console.Write("Enter any text you want: ");
             text = Console.ReadLine();
 
-            foreach (char c in text)
+            foreach (char letter in text)
             {
-                if (c=='a' || c=='A')
+                if (letter=='a' || letter=='A')
                     loop=true;
             }
         }
